@@ -35,3 +35,16 @@ administrator/components/com_cache/*
 /administrator/components/com_tags/*
 /administrator/components/com_templates/*
 /administrator/components/com_users/*
+/templates/beez3/*
+/templates/protostar/*
+/templates/system/*
+/templates/index.html
+/tmp/*
+/configuration.php
+/htaccess.txt
+/index.php
+/joomla.xml
+/LICENSE.txt
+/README.txt
+/robots.txt.dist
+/web.config.txt
