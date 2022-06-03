@@ -1,0 +1,5 @@
+bin/*
+cache/*
+cli/*
+tmpl/*
+administrator/components/com_akeebabackup/*

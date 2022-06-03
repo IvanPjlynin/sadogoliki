@@ -1,0 +1,1 @@
+<?php die("Access Denied"); ?>#x#a:2:{s:6:"result";s:158:"var addonCats=[{"name":"All","count":56},{"name":"General","count":10},{"name":"Content","count":26},{"name":"Media","count":13},{"name":"Slider","count":7}];";s:6:"output";s:0:"";}

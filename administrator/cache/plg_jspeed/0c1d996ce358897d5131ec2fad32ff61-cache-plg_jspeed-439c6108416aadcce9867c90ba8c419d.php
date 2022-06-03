@@ -1,0 +1,1 @@
+<?php die("Access Denied"); ?>#x#a:2:{s:6:"result";s:24:"var sppbVersion="3.8.6";";s:6:"output";s:0:"";}

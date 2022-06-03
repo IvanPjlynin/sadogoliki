@@ -1,0 +1,1 @@
+<?php die("Access Denied"); ?>#x#a:2:{s:6:"result";s:87:"@media(max-width: 576px) {.logo-image {height: 36px;}.logo-image-phone {height: 36px;}}";s:6:"output";s:0:"";}

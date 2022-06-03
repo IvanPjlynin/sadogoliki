@@ -1,0 +1,1 @@
+<?php die("Access Denied"); ?>#x#a:2:{s:6:"result";s:173:"var accessLevels=[{"value":1,"label":"Public"},{"value":5,"label":"Guest"},{"value":2,"label":"Registered"},{"value":3,"label":"Special"},{"value":6,"label":"Super Users"}];";s:6:"output";s:0:"";}
